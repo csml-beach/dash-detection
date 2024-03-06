@@ -1,1 +1,1 @@
-This repostory contains code on vision model to detect digits in clock or LED display.
+This repostory contains code on vision model to detect digits in clock or LED display. The code for the model used in this repository is forked from Yolov7.
